@@ -2,6 +2,7 @@
 using namespace std;
 void main()
 {
+	//test
 	int maze[5][5] = { {0,0,1,0,1},
 		{1,0,0,0,1},
 		{0,0,1,1,0},
